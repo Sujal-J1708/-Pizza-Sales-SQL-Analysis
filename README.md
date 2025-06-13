@@ -13,9 +13,6 @@ Focuses on business insights like revenue trends, product performance, and custo
 - MySQL / SQL
 - Canva (Presentation)
 - Excel
-  
-## 📄 Presentation
-📄 [Download Presentation (PDF)](Presentation%20-%20Pizza%20Sales%20Analysis.pdf)
 
 ## 🧾 Queries
 All `.sql` files are in the `/queries` folder and match the report.
