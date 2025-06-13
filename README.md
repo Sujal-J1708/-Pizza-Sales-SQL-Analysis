@@ -19,5 +19,5 @@ All `.sql` files are in the `/queries` folder and match the report.
 
 ## 📬 Contact
 - 📧 sujaljadhav75@gmail.com  
-- [LinkedIn](www.linkedin.com/in/sujal-jadhav2005)  
+- [LinkedIn](https://www.linkedin.com/in/sujal-jadhav2005/)  
 - [Kaggle](https://www.kaggle.com/sujal1708)
