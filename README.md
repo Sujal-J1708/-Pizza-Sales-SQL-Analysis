@@ -14,6 +14,8 @@ Focuses on business insights like revenue trends, product performance, and custo
 - Canva (Presentation)
 - Excel
 
+✅ Download Link - [https://drive.google.com/file/d/1rJfJ20LLrwQo8r80tTvVIHLIFr1wWcE9/view?usp=drive_link]
+
 ## 🧾 Queries
 All `.sql` files are in the `/queries` folder and match the report.
 
